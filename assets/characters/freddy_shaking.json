@@ -1,0 +1,93 @@
+{
+  "animations": [
+    {
+      "offsets": [0, 0],
+      "loop": true,
+      "fps": 24,
+      "anim": "idle-loop",
+      "indices": [10, 11, 12, 12],
+      "name": "Dad idle dance"
+    },
+    {
+      "offsets": [-9, 10],
+      "loop": true,
+      "fps": 24,
+      "anim": "singLEFT-loop",
+      "indices": [12, 13, 14, 15],
+      "name": "Dad Sing Note LEFT"
+    },
+    {
+      "offsets": [0, 27],
+      "loop": true,
+      "fps": 24,
+      "anim": "singRIGHT-loop",
+      "indices": [15, 16, 17, 18],
+      "name": "Dad Sing Note RIGHT"
+    },
+    {
+      "offsets": [-6, 50],
+      "loop": true,
+      "fps": 24,
+      "anim": "singUP-loop",
+      "indices": [56, 57, 58, 59],
+      "name": "Dad Sing Note UP"
+    },
+    {
+      "loop": false,
+      "offsets": [140, -100],
+      "anim": "hey",
+      "fps": 24,
+      "name": "WhatYouKnowAboutRollingDownInTheDeep",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [179, 137],
+      "anim": "singLEFT",
+      "fps": 24,
+      "name": "left_shaking",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [208, 41],
+      "anim": "singDOWN",
+      "fps": 24,
+      "name": "down_shaking",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [36, 151],
+      "anim": "singUP",
+      "fps": 24,
+      "name": "up_shaking",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [64, 78],
+      "anim": "singRIGHT",
+      "fps": 24,
+      "name": "right_shaking",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [79, 111],
+      "anim": "idle",
+      "fps": 24,
+      "name": "idle_shaking",
+      "indices": []
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/freddy2",
+  "position": [-70, 70],
+  "healthicon": "icon-freddy2",
+  "flip_x": false,
+  "healthbar_colors": [175, 102, 5],
+  "camera_position": [-130, 20],
+  "sing_duration": 6.1,
+  "scale": 0.8
+}
